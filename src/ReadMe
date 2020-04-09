@@ -1,0 +1,21 @@
+
+-implement a Redux architechture.
+-implement Formik form
+
+-Create Services directory and implement a create user service.
+
+-Create a Custom React hook that usePost(data), that comunicates with 
+react context and consumes the user service. 
+
+-Create a Config React context where you inject services
+ to comunicate with an API.
+
+ Create a form where you get the next information from the user:
+
+ -firstName.
+ -lastName.
+ -email
+ -password
+-phoneNumber
+-description - length > 10 char
+
